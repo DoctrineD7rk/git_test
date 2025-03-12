@@ -1,2 +1,3 @@
 # git_test
-A testing repository
+A testing repository //This is just a simple test. 
+"Hello Odin!"
